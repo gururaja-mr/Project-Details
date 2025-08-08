@@ -1,4 +1,6 @@
 🚀 Project Details – POCs
+
+
 This repository contains details of Proof of Concepts (POCs) developed as part of various software architecture, deployment, and cloud-native application exercises. The two primary projects are:
 
 📦 Logistics-Management-App
@@ -6,6 +8,7 @@ This repository contains details of Proof of Concepts (POCs) developed as part o
 🛒 ATLAN-Ecommerce-App
 
 1️⃣ Logistics-Management-App
+
 A React + .NET-based logistics shipment management system that enables efficient shipment tracking and management.
 
 Features
@@ -29,6 +32,7 @@ Database: SQL Server
 Auth: Custom token-based authentication
 
 2️⃣ ATLAN-Ecommerce-App
+
 A full-stack microservices-based ecommerce application deployed on Kubernetes/OpenShift.
 
 🔗 Live Demo: Frontend Application
