@@ -54,7 +54,7 @@ Deployment Steps
 bash
 Copy
 Edit
-git clone https://github.com/******/ecommerce-app.git
+git clone https://github.com/gururaja-mr/ecommerce-app.git
 cd ecommerce-app
 2. Create Namespace
 bash
