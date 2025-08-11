@@ -3,7 +3,7 @@
 This repository showcases infrastructure automation and cloud operations work done for SKF. The project involved managing multi-account AWS environments, implementing governance, and deploying scalable infrastructure using modern DevOps tools.
 
 ## Key Technologies
-- AWS, Azure
+- Amazon Web Services (AWS)
 - Terraform, CloudFormation
 - Datadog, Ansible
 - ArgoCD, Azure DevOps
