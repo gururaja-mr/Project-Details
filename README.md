@@ -1,3 +1,83 @@
+# ☁️ SKF – Global Cloud Operations & Infrastructure Automation
+
+This repository showcases infrastructure automation and cloud operations work done for SKF. The project involved managing multi-account AWS environments, implementing governance, and deploying scalable infrastructure using modern DevOps tools.
+
+## Key Technologies
+- AWS, Azure
+- Terraform, CloudFormation
+- Datadog, Ansible
+- ArgoCD, Azure DevOps
+- Rancher, Amazon EKS
+
+## Features
+- Infrastructure as Code (IaC)
+- GitOps-based deployments
+- Real-time monitoring and alerting
+- Scalable Kubernetes clusters
+
+## Author
+[Gururaja Rudraiah]
+
+
+# 🚗 Mercedes-Benz – HR-Brain & IDEA-Infrastructure Projects
+
+This repository contains infrastructure setup and deployment automation for HR-Brain and IDEA-Infrastructure applications at Mercedes-Benz. The projects were deployed in a hybrid cloud environment using Kubernetes and supported by DevOps best practices.
+
+## Key Technologies
+- Harbor (Container Registry)
+- Kubernetes (Orchestration)
+- Grafana (Monitoring)
+- Ansible (Configuration Management)
+
+## Features
+- Automated infrastructure provisioning
+- Scalable Kubernetes deployments
+- Real-time monitoring and alerting
+- Hybrid cloud integration
+
+## Author
+[Gururaja Rudraiah]
+
+
+
+
+# 🚗 New Car Locator – Volvo Cars
+
+This project was developed as part of my role at Tech Mahindra Ltd for Volvo Cars. It enables users to locate new vehicles across dealerships with real-time data and a user-friendly interface.
+
+## Features
+- Real-time car availability
+- Advanced filtering options
+- Responsive design
+- API integration with Volvo systems
+
+## Technologies
+React.js | Redux.js | .NET | MSSQL Server | Azure DevOps
+
+## Author
+[Gururaja Rudraiah]
+
+
+# 🏭 Otto Environmental Systems – Enterprise Web Portal
+
+This project was developed as part of my role at BlueChip Computers Pvt Ltd for Otto Environmental Systems. It provides a centralized platform for managing customer orders, product catalogs, and internal workflows.
+
+## Features
+- Role-based access control
+- Order tracking and reporting
+- Product catalog management
+- Integration with logistics APIs
+
+## Technologies
+ASP.NET | MVC | SQL Server | IIS
+
+## Author
+[Gururaja Rudraiah]
+
+
+
+
+
 # 🚀 Project Details – POCs
 
 This repository contains details of Proof of Concepts (POCs) developed as part of various software architecture, deployment, and cloud-native application exercises. The two primary projects are:
@@ -44,11 +124,6 @@ A **full-stack microservices-based ecommerce application** deployed on **Kuberne
 
 ### **Deployment Steps**
 
-#### **1. Clone Repository**
-```bash
-git clone https://github.com/mrudraia1/ecommerce-app.git
-cd ecommerce-app
-```
 
 #### **2. Create Namespace**
 ```bash
